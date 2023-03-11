@@ -46,4 +46,4 @@ bundle add webrick
 
 [Customizing the site](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 [Customizing Merlot theme specifically](https://github.com/pages-themes/merlot)
-Each custom layout should specify its parent layout in its header, likely until the parent is `default`
+Make sure the post date/time are not in the future. They won't show up until the site is generated after that date/time.
