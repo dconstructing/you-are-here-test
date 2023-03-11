@@ -22,7 +22,7 @@ sudo apt install ruby-full build-essential zlib1g-dev
 2. Install Jekyll
 
 ```rb
-gem install jekyll bundler
+sudo gem install jekyll bundler
 ```
 
 3. Test locally
