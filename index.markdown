@@ -6,3 +6,7 @@ layout: home
 title: Home
 sort: 1
 ---
+
+This is found at index.markdown
+
+![Château de Chillon (Switzerland)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/1920px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg)
