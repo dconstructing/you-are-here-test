@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+sort: 3
 ---
 
 This page is found at `blog.md`

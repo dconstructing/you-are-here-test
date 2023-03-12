@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+sort: 2
 ---
 
 This page is found at `about.md`
